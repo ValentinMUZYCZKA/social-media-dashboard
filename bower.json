@@ -1,0 +1,21 @@
+{
+  "name": "social-media-dashboard-with-theme-switcher",
+  "homepage": "https://github.com/ValentinMuzyczkaExerciceFrontEnd/social-media-dashboard-with-theme-switcher",
+  "authors": [
+    "valentin muzyczka <valentin.muzyczka@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "no",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "^3.5.1"
+  }
+}
